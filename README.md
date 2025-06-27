@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pannawat Sittitun (Beem)</h1>
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Funny GIF">
 <h4 align="center">I am currently a student majoring in Software Engineering. I have a strong interest in learning more about this field and am eager to challenge myself and work hard to gain hands-on experience. I’m always looking for opportunities to grow and improve my skills, and I’m ready to dedicate myself fully to this journey.</h4>
 
 - 🌱 I’m currently learning **C/C++**
